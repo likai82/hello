@@ -1,6 +1,3 @@
 first commit likai82
-modify commit by likai80 at bracn dev
+moify line2 at master
 add new line by likai80
-add branch dev
-modify branch dev
-add branch dev after merge
