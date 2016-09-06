@@ -5,3 +5,4 @@ add branch dev
 modify branch dev
 add branch dev after merge
 add branch dev after merge again
+modify master
